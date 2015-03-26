@@ -7,8 +7,8 @@ Pod::Spec.new do |s|
   s.author           = { "David Sweetman" => "david@davidsweetman.com" }
   s.source           = { :git => "https://github.com/sweetmandm/ImageFormatInspector.git", :tag => s.version.to_s }
  
-  s.platform     = :ios, '7.0'
-  s.requires_arc = true
-  s.source_files = './ImageFormatInspector.{h,m}'
-  s.public_header_files = './ImageFormatInspector.h'
+  s.platform     = :ios, '6.0'
+  s.requires_arc = false
+  s.source_files = 'ImageFormatInspector.{h,m}'
+  s.public_header_files = 'ImageFormatInspector.h'
 end
