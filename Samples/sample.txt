@@ -1,0 +1,2 @@
+This is a sample text file to test the 'unknown' case.
+It seemed easier and more obvious than using a broken image or something, but maybe it's not as good of a test.
