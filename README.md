@@ -37,3 +37,8 @@ Drop ImageFormatInspector.{h,m} into your project.
 ## Sample Project
 
 There's a sample project too.
+
+
+## License
+
+MIT
