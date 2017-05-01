@@ -2,7 +2,7 @@
 
 ## Installation:
 
-### Cocoapods
+### CocoaPods
 
 Add to your Podfile:
 
@@ -10,7 +10,7 @@ Add to your Podfile:
 
 then `pod install`
 
-### Non-Cocoapods
+### Non-CocoaPods
 
 Drop ImageFormatInspector.{h,m} into your project.
 
